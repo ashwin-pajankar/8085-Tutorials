@@ -1,0 +1,6 @@
+MVI A, 23h
+RLC
+RLC
+RLC
+RLC
+HLT

@@ -1,0 +1,5 @@
+STC
+CMC
+MVI A, 80h
+RAL
+HLT

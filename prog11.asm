@@ -1,0 +1,3 @@
+MVI A, 0Fh
+ANI 52h
+HLT

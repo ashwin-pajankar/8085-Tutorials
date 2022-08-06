@@ -1,0 +1,3 @@
+MVI A, 04h
+XRI 65h
+HLT

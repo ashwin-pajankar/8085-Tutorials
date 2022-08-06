@@ -1,0 +1,3 @@
+; HL <-> DE
+XCHG
+HLT

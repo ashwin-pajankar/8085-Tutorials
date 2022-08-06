@@ -1,0 +1,7 @@
+MVI B, 83h
+MVI A, 12h
+XRA B
+
+LXI H, 2500h
+XRA M
+HLT

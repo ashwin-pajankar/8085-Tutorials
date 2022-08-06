@@ -1,0 +1,10 @@
+; HL = 5000h
+LXI H, 5000h
+
+; DE = 4000h
+LXI D, 4000h
+
+; BC = 3000h
+LXI B, 3000h 
+
+HLT

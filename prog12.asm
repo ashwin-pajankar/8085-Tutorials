@@ -1,0 +1,7 @@
+MVI B, 23h
+MVI A, 0Fh
+ORA B
+
+LXI H, 2500h
+ORA M
+HLT

@@ -1,0 +1,6 @@
+MVI H, 20h
+MVI L, 00h
+
+MVI M, 40
+HLT
+

@@ -1,0 +1,6 @@
+MVI A, 8Ah
+RRC
+RRC
+RRC
+RRC
+HLT

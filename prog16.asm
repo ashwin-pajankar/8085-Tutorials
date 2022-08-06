@@ -1,0 +1,4 @@
+MVI A, 01h
+MVI B, 00h
+CMP B
+HLT

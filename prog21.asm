@@ -1,0 +1,5 @@
+STC
+CMC
+MVI A, 01h
+RAR
+HLT
