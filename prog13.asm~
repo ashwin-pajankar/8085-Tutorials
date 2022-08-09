@@ -1,3 +1,0 @@
-MVI A, 34h
-ORI 23h
-HLT

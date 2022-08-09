@@ -1,3 +1,0 @@
-MVI A, 0Fh
-ANI 34h
-HLT
