@@ -1,0 +1,24 @@
+; Add two digits
+; of an 8 bit number
+; input 2500h
+
+jmp start
+
+;data
+
+;code
+start: LDA 2500h
+MOV B, A
+ANI 0Fh
+MOV C, A
+MOV A, B
+RLC
+RLC
+RLC
+RLC
+ANI 0Fh
+ADD C
+STA 2501h
+HLT
+
+

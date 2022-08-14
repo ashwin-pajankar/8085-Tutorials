@@ -1,0 +1,15 @@
+
+; Add three
+; 16 bit numbers
+; immediate input
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+
+
+hlt

@@ -1,0 +1,4 @@
+STC
+MVI A, 01h
+ACI 01h
+HLT

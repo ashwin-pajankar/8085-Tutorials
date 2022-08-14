@@ -1,0 +1,9 @@
+MVI A, 00h
+MVI C, 02h
+; A = A + 1
+INR A
+; C = C + 1
+INR C
+LXI H, 2500h
+INR M
+HLT

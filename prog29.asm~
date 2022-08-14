@@ -1,0 +1,3 @@
+MVI A, 02h
+SUI 01h
+HLT

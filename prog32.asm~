@@ -1,0 +1,9 @@
+MVI A, 02h
+MVI C, 03h
+; A = A - 1
+DCR A
+; C = C - 1
+DCR C
+LXI H, 2500h
+DCR M
+HLT

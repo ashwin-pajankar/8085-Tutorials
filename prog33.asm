@@ -1,0 +1,4 @@
+LXI B, 00FFh
+INX B
+DCX B
+HLT

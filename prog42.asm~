@@ -1,0 +1,14 @@
+; Sum of a Series
+; Size in 3000h
+; Series in 3001h onwards
+; Output at 4000h and 4001h
+
+jmp start
+
+;data
+
+;code
+start:
+
+
+hlt

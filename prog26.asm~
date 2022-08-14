@@ -1,0 +1,7 @@
+MVI A, 02h
+MVI B, 01h
+SUB B
+
+LXI H, 2500h
+SUB B
+HLT
